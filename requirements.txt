@@ -1,0 +1,11 @@
+langchain
+langchain_openai
+ipykernel
+python-dotenv
+langchain_community
+PyPDF
+beautifulsoup4
+playwright
+arxiv
+pymupdf
+langchain-text-splitters
