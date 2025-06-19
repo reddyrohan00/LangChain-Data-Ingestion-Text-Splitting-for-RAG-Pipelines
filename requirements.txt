@@ -9,3 +9,4 @@ playwright
 arxiv
 pymupdf
 langchain-text-splitters
+python-dotenv
