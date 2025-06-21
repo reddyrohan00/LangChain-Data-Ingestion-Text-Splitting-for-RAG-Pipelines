@@ -11,3 +11,11 @@ pymupdf
 langchain-text-splitters
 python-dotenv
 chromadb
+llama-index-embeddings-ollama
+#ollama
+scikit-learn
+langchain_huggingface
+sentence_transformers
+faiss-cpu
+chromadb
+langchain_chroma
